@@ -1,6 +1,6 @@
 package ee.jjanno.libjsimplex.noise.gpu;
 
-import com.amd.aparapi.Kernel;
+import com.aparapi.Kernel;
 
 /*
  * A speed-improved simplex noise algorithm for 2D, 3D and 4D in Java.
